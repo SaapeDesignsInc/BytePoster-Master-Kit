@@ -84,7 +84,7 @@ You should have the following items ready before beginning the process:
 
 ### Update Variables
 
-[/BML_Azure_Demo/main/main.cpp](#)
+[<./BMK_Azure_Temp/main/main.cpp](https://github.com/SaapeDesignsInc/BytePoster-Master-Kit/tree/master/example/ESP-IDF/BMK_Azure_Temp/main/)
 
 -   Update the connectionString variable to the device-specific connection string you got earlier from the Setup Azure IoT step:
 
