@@ -6,7 +6,7 @@ device: esp-wroom-32
 language: c
 ---
 
-Run a simple C sample on BMK (ESP-WROOM32) device running RTOS
+Azure Demo code for BMK (ESP-WROOM32) device. ( C and C++ Code)
 ===
 ---
 
