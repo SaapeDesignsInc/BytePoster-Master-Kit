@@ -131,9 +131,8 @@ You should have the following items ready before beginning the process:
 -   If failed,try:
     -   make sure that ESP32 had connect to PC by serial port 
     -   make sure you flash to correct serial port
-    -   try type command:
-        > sudo usermod -a -G dialout $USER
- 
+    -   make sure BMK is in Flash mode(IO0 must be connected to GND, and restart)
+    
 <a name="results"></a>
 # Step 5: Result shows
 
