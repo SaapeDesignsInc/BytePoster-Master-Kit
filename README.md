@@ -73,7 +73,7 @@ You should have the following items ready before beginning the process:
 ### BMK Demo get
 
 -   You can get BMK-Demo (ESP-IDF)  from <https://github.com/SaapeDesignsInc/BytePoster-Master-Kit/tree/master/example/ESP-IDF/BMK_Azure_Temp> to connect BMK to Azure by MQTT protocol and send temperature. Additionally, the Arduino demo is avaliable here:<https://github.com/SaapeDesignsInc/BytePoster-Master-Kit/tree/master/example/Arduino/BMK_Azure_Demo>
-   - Clone the BMK_Azure_Demo project.
+-   Download the BMK_Azure_Demo project.
 -   You can get AZURE-SDK from <https://github.com/ustccw/AzureESP32> to connect ESP32 to Azure by MQTT protocol.  
 -   You can get IDF-SDK from <https://github.com/espressif/esp-idf>. This SDK can make ESP32 work well.
 
