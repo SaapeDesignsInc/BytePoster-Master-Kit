@@ -26,7 +26,7 @@ Azure Demo code for BMK (ESP-WROOM32) device.
 - BytePoster Master Kit (BMK) is an IoT platform allowing engineers to prototype, proof of concept and develop IoT products at an extremely fast pace. The BMK contains three boards: Core, Sensor, and GSM. Additionally, BMK can accept additional custom boards for specific feature or capability.
 - The Core board contains an Xtensa® Dual-core 32-bit LX6 microprocessors (WiFi/BLE), standalone timer, battery management and battery charging. Additionally, the capability to store information on SD card. For more information regarding the microcontroller: <https://espressif.com/en/products/hardware/esp32/overview>
 - The sensor board contains multiple sensors (Temperature and Humidity, High Precision Temperature, 3D Digital Linear Acceleration Sensor, 3D Digital Magnetic Sensor, 3D Accelerometer and 3D Gyroscope, Hi-Sensitivity Ambient Light Sensor, PIEZO ZeroPower Microphone), and the ability to accept any sensor via I2C, ADC, and SPI protocols.
-- The dedicated GSM board for low power LTE connectivity, specially optimized for M2M and IoT applications. This board can be snapped on to the core board of the BMK. It has a Quectel  EC21 chipset on board with a power circuitry to utilize cellular connectivity for real time monitoring applications with power constraints. The BMK delivers M2M optimized speeds of 10Mbps downlink and 5Mbps uplink. These feature make BMK an ideal solution for numerous IoT applications that are not reliant on high speed connectivity but still require the longevity and reliability of LTE networks. 
+- The dedicated GSM board for low power LTE connectivity, specially optimized for M2M and IoT applications. This board can be snapped on to the core board of the BMK. It has a Quectel  EC21 chipset on board with a power circuitry to utilize cellular connectivity for real time monitoring applications with power constraints. The BMK delivers M2M optimized speeds of 10Mbps downlink and 5Mbps uplink. 
 This kit is designed for enterprises to rapidly realize their ideas; create a custom end to end solutions for their clients and accelerate their process of going from prototype stage to pilot stage. 
 
 
@@ -72,7 +72,7 @@ You should have the following items ready before beginning the process:
 
 ### BMK Demo get
 
--   You can get BMK-Demo (ESP-IDF)  from <https://github.com/yavortomov/BMK/tree/master/example/ESP-IDF/BMK_Azure_Temp> to connect BMK to Azure by MQTT protocol and send temperature. Additionally, the Arduino demo is avaliable here:<https://github.com/yavortomov/BMK/tree/master/example/Arduino/BMK_Azure_Demo>
+-   You can get BMK-Demo (ESP-IDF)  from <https://github.com/SaapeDesignsInc/BytePoster-Master-Kit/tree/master/example/ESP-IDF/BMK_Azure_Temp> to connect BMK to Azure by MQTT protocol and send temperature. Additionally, the Arduino demo is avaliable here:<https://github.com/SaapeDesignsInc/BytePoster-Master-Kit/tree/master/example/Arduino/BMK_Azure_Demo>
    - Clone the BMK_Azure_Demo project.
 -   You can get AZURE-SDK from <https://github.com/ustccw/AzureESP32> to connect ESP32 to Azure by MQTT protocol.  
 -   You can get IDF-SDK from <https://github.com/espressif/esp-idf>. This SDK can make ESP32 work well.
