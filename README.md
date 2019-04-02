@@ -1,4 +1,4 @@
-SAAPE - Byteposter Master Kit Starter Guide 
+SAAPE - Byteposter Master Kit (BMK) Starter Guide 
 ===
 Azure Demo code for BMK (ESP-WROOM32) device.
 ===
