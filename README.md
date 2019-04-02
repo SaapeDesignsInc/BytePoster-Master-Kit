@@ -1,11 +1,5 @@
 SAAPE - Byteposter Master Kit Starter Guide 
 ===
----
-platform: rtos
-device: esp-wroom-32
-language: c
----
-
 Azure Demo code for BMK (ESP-WROOM32) device.
 ===
 ---
