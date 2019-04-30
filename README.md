@@ -3,7 +3,7 @@ SAAPE - Byteposter Master Kit (BMK) Starter Guide
 Azure Demo code for BMK (ESP-WROOM32) device.
 ===
 ---
-![](./media/bmk_dslr.png)
+![](./media/bmk_dslr.jpg)
 # Table of Contents
 -   [Introduction](#Introduction)
 -   [Step 1: Prerequisites](#Prerequisites)
