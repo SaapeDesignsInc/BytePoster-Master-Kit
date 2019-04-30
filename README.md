@@ -22,7 +22,7 @@ Azure Demo code for BMK (ESP-WROOM32) device.
 - The sensor board contains multiple sensors (Temperature and Humidity, High Precision Temperature, 3D Digital Linear Acceleration Sensor, 3D Digital Magnetic Sensor, 3D Accelerometer and 3D Gyroscope, Hi-Sensitivity Ambient Light Sensor, PIEZO ZeroPower Microphone), and the ability to accept any sensor via I2C, ADC, and SPI protocols.
 - The dedicated GSM board for low power LTE connectivity, specially optimized for M2M and IoT applications. This board can be snapped on to the core board of the BMK. It has a Quectel  EC21 chipset on board with a power circuitry to utilize cellular connectivity for real time monitoring applications with power constraints. The BMK delivers M2M optimized speeds of 10Mbps downlink and 5Mbps uplink. 
 This kit is designed for enterprises to rapidly realize their ideas; create a custom end to end solutions for their clients and accelerate their process of going from prototype stage to pilot stage. 
-
+![](./media/stacked_dimension.png)
 
 Azure cloud is one of wonderful cloud that could collect data from lot device or push data to lot device,for more details, click <https://www.azure.cn/home/features/iot-hub/>
 
