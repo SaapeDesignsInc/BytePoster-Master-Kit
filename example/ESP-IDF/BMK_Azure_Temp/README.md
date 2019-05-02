@@ -13,11 +13,11 @@ Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/lates
 - run "make flash" 
 
 ### Possible compilation errors:
-1. Error: ESP32MQTTClient.h - No such file found
+#### 1. Error: ESP32MQTTClient.h - No such file found
 
    Solution: make sure that you enable AzureIoT module in Arduino Configuration in make menuconfig
 
-2. Error: 'mbedtls_ssl_conf_psk' was not declared in this scope
+#### 2. Error: 'mbedtls_ssl_conf_psk' was not declared in this scope
 
    Solution: In the terminal: 
 
@@ -33,7 +33,8 @@ make menuconfig
 
 ## Acknowledgments
 
-* Hat tip to 
+* Hat tip to  K.Townsend (Adafruit Industries) for releasing the library of MCP9808 Arduino library. Amazing work! 
+** 
 * Inspiration
 * etc
 *Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
