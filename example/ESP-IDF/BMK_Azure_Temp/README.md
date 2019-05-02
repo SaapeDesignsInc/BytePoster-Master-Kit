@@ -12,17 +12,24 @@ Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/lates
 - run "make menuconfig"   
 - run "make flash" 
 
-Possible compilation Errors:
+#Possible compilation Errors:
 1. Error: ESP32MQTTClient.h - No such file found
+
 Solution: make sure that you enable AzureIoT module in Arduino Configuration in make menuconfig
 
 2. Error: 'mbedtls_ssl_conf_psk' was not declared in this scope
+
 Solution: In the terminal: 
---> make menuconfig
--->Component Config -> mbedTLS -> TLS Key Exchange Methods -> 
+
+```
+make menuconfig
+```
+
+```
+    Component Config -> mbedTLS -> TLS Key Exchange Methods -> 
     [*] Enable pre-shared-key ciphersuits
     [*] Enable PSK based ciphersuite modes
-
+```
 *Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
 Unless required by applicable law or agreed to in writing, this
 software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
