@@ -8,6 +8,7 @@ Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/lates
 - Make sure you have installed and configured the [ESP-IDF](https://github.com/espressif/esp-idf)
 - Clone the "BMK_AzureTemp" project to your PC 
 - Clone and configure [arduino-esp32](https://github.com/espressif/arduino-esp32) as componnent of your project. 
+- Update the wifi credentials and Azure IoTHub Connection String credentials in main.cpp
 - run "make menuconfig" 
 - run "make flash" 
 
