@@ -33,7 +33,7 @@ make menuconfig
 
 ## Acknowledgments
 
-* Hat tip to  K.Townsend (Adafruit Industries) for releasing the library of MCP9808 Arduino library. Amazing work! 
+* Hat tip to  K.Townsend (Adafruit Industries) for releasing the MCP9808 Arduino library. Amazing work! 
 * Thanks a ton to Espressif community for providing components, cues for bug fixes, constant updates on IDF.  
 
 
