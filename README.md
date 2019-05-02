@@ -136,7 +136,7 @@ You should have the following items ready before beginning the process:
 
 
 <a name="troubleshoot"></a>
-#TroubleShoot
+# TroubleShoot
 
 -   Close some firewall settings
 -   Build failed, try:
