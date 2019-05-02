@@ -42,7 +42,7 @@ You should have the following items ready before beginning the process:
 -   Device credentials (Provisioning).
        There are multiple ways to create an device and its creatednital. We recommend using the Windows Device Explorer option. [Follow:"Option 1: Use Azure IoT Hub DeviceExplorer (Windows Only)"][lnk-manage-iot-hub]
 -   **BMK device** for running the demo.  
-    ![ESP32 device](./media/bmk_kit.png)
+    ![ESP32 device](./media/BMK-kit.png)
 -   **Programming Header** for easy programing. Optional but recommended.
     You can build one using [header] and some jumper wire. 
     ![ESP32 device](./media/header.png)
