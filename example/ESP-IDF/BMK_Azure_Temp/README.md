@@ -10,6 +10,7 @@ Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/lates
 - Clone and configure [arduino-esp32](https://github.com/espressif/arduino-esp32) as componnent of your project. 
 - Update the wifi credentials and Azure IoTHub Connection String credentials in main.cpp
 - run "make menuconfig" 
+-- make sure that you enable AzureIoT module in Arduino Configuration in make menuconfig  
 - run "make flash" 
 
 *Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
