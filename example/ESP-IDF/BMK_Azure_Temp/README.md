@@ -12,14 +12,14 @@ Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/lates
 - run "make menuconfig"   
 - run "make flash" 
 
-#Possible compilation Errors:
+### Possible compilation Errors:
 1. Error: ESP32MQTTClient.h - No such file found
 
-Solution: make sure that you enable AzureIoT module in Arduino Configuration in make menuconfig
+   Solution: make sure that you enable AzureIoT module in Arduino Configuration in make menuconfig
 
 2. Error: 'mbedtls_ssl_conf_psk' was not declared in this scope
 
-Solution: In the terminal: 
+   Solution: In the terminal: 
 
 ```
 make menuconfig
