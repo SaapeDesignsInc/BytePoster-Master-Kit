@@ -34,9 +34,9 @@ make menuconfig
 ## Acknowledgments
 
 * Hat tip to  K.Townsend (Adafruit Industries) for releasing the library of MCP9808 Arduino library. Amazing work! 
-** 
-* Inspiration
-* etc
+* Thanks a ton to Espressif community for providing components, cues for bug fixes, constant updates on IDF.  
+
+
 *Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
 Unless required by applicable law or agreed to in writing, this
 software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
