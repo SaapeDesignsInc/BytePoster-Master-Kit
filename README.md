@@ -14,6 +14,9 @@ Azure Demo code for BMK (ESP-WROOM32) device.
 -   [TroubleShoot](#troubleshoot)
 -   [Next Steps](#NextSteps)
 
+# Buy from Microsoft IoT Store
+https://catalog.azureiotsolutions.com/details?title=BytePoster-Master-Kit&source=all-devices-page
+
 <a name="Introduction"></a>
 # Introduction
 
