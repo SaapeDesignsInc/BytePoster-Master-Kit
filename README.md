@@ -14,6 +14,9 @@ Azure Demo code for BMK (ESP-WROOM32) device.
 -   [TroubleShoot](#troubleshoot)
 -   [Next Steps](#NextSteps)
 
+# Buy from Amazon: 
+https://www.amazon.com/BytePoster-IoT-Master-Kit-Microcontroller/dp/B082WJXH61/ref=sr_1_1?keywords=Byteposter+Master+Kit&qid=1578419525&s=electronics&sr=1-1
+
 # Buy from Microsoft IoT Store
 https://catalog.azureiotsolutions.com/details?title=BytePoster-Master-Kit&source=all-devices-page
 
